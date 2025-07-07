@@ -1,0 +1,2 @@
+created 3 files usinf touch nano vi commands 
+task done
